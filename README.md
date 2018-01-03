@@ -1,14 +1,12 @@
 # My Awesome Project
 
-*(approx. few sentences)*
-
 Put some short, clean description at this place. Describe what it can do and what not, when it should be used in one or two sentences. If you are writing a functional module, its name must clearly describe the function of this module.
 
 All sections below are optional. You can delete some sections if it's too much for you, but better follow the order. Order of sections are not at random, for more reference to [Cognitive funneling](https://github.com/noffle/art-of-readme#cognitive-funneling).
 
 ### Table of contents
 
-*(optional, only useful when your readme is long)*
+Use this when your readme is long. You might want to try this [online generator](https://ecotrust-canada.github.io/markdown-toc/).
 
 ## Features
 
